@@ -1,4 +1,4 @@
-# Credit-Card-Fraud
+# Credit-Card-Fraud-Detection
 
 Kaggle Link : https://www.kaggle.com/mlg-ulb/creditcardfraud
 
